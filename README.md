@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AIChenC
+- 👋 Hi, I’m ChenC
 - 👀 I’m interested in Python, DB, C, HTML, CSS and so on. Fascinating languages^_^
 - 🌱 I’m currently learning Linux, C, website building and server structure
 ** Esp32/8266/Arduino are charming friends, 
